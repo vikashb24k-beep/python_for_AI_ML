@@ -91,3 +91,13 @@ print("num9:", num9, type(num9))  # Output: 42 <class 'int'>
 print("num10:", num10, type(num10))  # Output: "42" <class 'str'>
 
 
+#Taking_input_from_users
+name=input("Enter yours name:")#input fuction gives us a string input from the user
+age=input("Enter your age:")
+print("Hello",name,"you are",age,"years old.")
+
+#calculate avg of two numbers
+num1=float(input("Enter first number:"))
+num2=float(input("Enter second number:"))
+avg=(num1+num2)/2
+print("The average of",num1,"and",num2,"is",avg)
