@@ -5,7 +5,7 @@
 # # # if age>=15:
 # # #     print ("you can give boarding pass")
 
-# # # #outhentication system
+# # # #authentication system
 # # # username=input("enter your username:")
 # # # password=input("enter your password:")
 # # # if username=="admin" and password=="1234":
@@ -73,7 +73,7 @@ i = 1
 #     i += 1
 
 
-# for loop
+# for loop 
 
 # for as a
 # var="vicky"
