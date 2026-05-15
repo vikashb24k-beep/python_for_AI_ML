@@ -77,5 +77,5 @@ plt.legend()
 plt.ylim(0, max(max(oscar_revenue), max(non_oscar_revenue)) + 300)
 
 plt.xticks(x, years)
-plt.tight_layout()
+plt.tight_layout
 plt.show()
