@@ -1,0 +1,1 @@
+plt.ylim(0, max(max(oscar_revenue), max(non_oscar_revenue)) + 100)
